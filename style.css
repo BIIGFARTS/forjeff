@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(235, 222, 206);
+    margin: 0px;
+    font-family: 'Pacifico';
+    text-align: center;
+}
+
+form {
+    background-color: rgba(237, 192, 162);
+    margin: 100px 100px 20px 100px;
+    padding: 0px;
+    border:rgb(225, 148, 53)
+}
+
+h1, h5 {
+    margin: 8px;
+} 
+
+h3 {
+    font-size: 15px;
+}
+
+div {
+    margin: 20px 0px;
+    color: rgb(160, 141, 119);
+}
+
+#signup-button {
+    background-color: bisque;
+    width:200px;
+    padding: 10px 0px;
+}
